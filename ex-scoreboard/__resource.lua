@@ -9,3 +9,5 @@ client_scripts {
 server_scripts {
 	'scoreboard/sv_scoreboard.lua',
 }
+
+dependency 'warmenu'
