@@ -7,14 +7,14 @@ ST._Scoreboard.PlayersS = {}
 ST._Scoreboard.RecentS = {}
 
 
-ADMIN = 'steam:11000011a909dc0'..'steam:1100001412a3823'..'steam:11000013decabe2'..'steam:11000013bc1c335'
+ADMIN = 'steam:adminshex'..'steam:adminshex1'..'steam:adminshex2'..'steam:adminshex3' --add many as u want just follow the format
 
 
 
-T1 = 'steam:1100001426f4003'..'steam:1100001441010d6'..'steam:110000107d5a50c'..'steam:11000013eac8b9b'   
+T1 = 'steam:priohex'..'steam:priohex1'..'steam:priohex2'..'steam:priohex3'   --thats for priority holders
 
 
-SS = 'steam:11000014485f7ab'..'steam:110000135f29216' --Prince
+SS = 'steam:staffhex'..'steam:staffhex1' --thats for staff
 
 RegisterServerEvent('st-scoreboard:AddPlayer')
 AddEventHandler("st-scoreboard:AddPlayer", function()
